@@ -30,26 +30,31 @@ nav {
   display: flex;
   justify-content: space-evenly;
   flex-grow: 0.9;
+  padding: 20px;
 }
 .header-logo {
   display: flex;
   flex-grow: 0.1;
+  padding: 20px;
 }
 #secondary-text {
   font-size: 18px;
   color: #e5e7eb;
+  padding: 0%;
 }
 h1 {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
+  padding: 0%;
+  margin: 0%;
 }
 .pic {
-  width: 200px;
+  width: 300px;
   height: 150px;
   background-color: gray;
   color: #e5e7eb;
-  padding: 50px;
+  padding: 100px;
   flex-grow: 0.4;
   margin: 5px;
   text-align: center;
@@ -82,6 +87,7 @@ h1 {
   align-items: center;
   list-style: none;
   text-align: center;
+  padding: 40px;
 }
 .box {
   width: 150px;
@@ -93,6 +99,7 @@ h2 {
   font: 36px #1f2937;
   font-weight: bolder;
   text-align: center;
+  padding: 20px;
 }
 .mid {
   background-color: #e5e7eb;
